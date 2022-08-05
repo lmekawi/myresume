@@ -20,12 +20,12 @@ var paths = {
     },
     src: {
         root:       'public_html/assets',
-        html:       'public_html/**/*.html',
-        css:        'public_html/assets/css/*.css',
-        js:         'public_html/assets/js/*.js',
+        html:       'public_html/**/index.html',
+        css:        'public_html/assets/css/lmekawi.css',
+        js:         'public_html/assets/js/lmekawi.js',
         vendors:    'public_html/assets/vendors/**/*.*',
         imgs:       'public_html/assets/imgs/**/*.+(png|jpg|gif|svg)',
-        scss:       'public_html/assets/scss/**/*.scss'
+        scss:       'public_html/assets/scss/**/lmekawi.scss'
     },
     dist: {
         root:       'public_html/dist',
