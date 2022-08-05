@@ -162,7 +162,7 @@ sup {
 }
 
 a {
-  color: #F85C70;
+  color: #47D8E0;
   text-decoration: none;
   background-color: transparent;
 }
@@ -2499,7 +2499,7 @@ textarea.form-control {
   width: 100%;
   margin-top: 0.25rem;
   font-size: 80%;
-  color: #F85C70;
+  color: #47D8E0;
 }
 
 .invalid-tooltip {
@@ -2527,7 +2527,7 @@ textarea.form-control {
 }
 
 .was-validated .form-control:invalid:focus, .form-control.is-invalid:focus {
-  border-color: #F85C70;
+  border-color: #47D8E0;
   box-shadow: 0 0 0 0.2rem rgba(248, 92, 112, 0.25);
 }
 
@@ -2549,7 +2549,7 @@ textarea.form-control {
 }
 
 .was-validated .custom-select:invalid:focus, .custom-select.is-invalid:focus {
-  border-color: #F85C70;
+  border-color: #47D8E0;
   box-shadow: 0 0 0 0.2rem rgba(248, 92, 112, 0.25);
 }
 
@@ -2576,7 +2576,7 @@ textarea.form-control {
 }
 
 .was-validated .custom-control-input:invalid ~ .custom-control-label, .custom-control-input.is-invalid ~ .custom-control-label {
-  color: #F85C70;
+  color: #47D8E0;
 }
 
 .was-validated .custom-control-input:invalid ~ .custom-control-label::before, .custom-control-input.is-invalid ~ .custom-control-label::before {
@@ -2773,8 +2773,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #F85C70;
-  border-color: #F85C70;
+  background-color: #47D8E0;
+  border-color: #47D8E0;
 }
 
 .btn-primary:hover {
@@ -2959,8 +2959,8 @@ fieldset:disabled a.btn {
 
 .btn-danger.disabled, .btn-danger:disabled {
   color: #fff;
-  background-color: #F85C70;
-  border-color: #F85C70;
+  background-color: #47D8E0;
+  border-color: #47D8E0;
 }
 
 .btn-danger:not(:disabled):not(.disabled):active, .btn-danger:not(:disabled):not(.disabled).active,
@@ -3059,7 +3059,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #F85C70;
+  color: #47D8E0;
   background-color: transparent;
 }
 
@@ -3204,8 +3204,8 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-danger {
-  color: #F85C70;
-  border-color: #F85C70;
+  color: #47D8E0;
+  border-color: #47D8E0;
 }
 
 .btn-outline-danger:hover {
@@ -5822,7 +5822,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #F85C70;
+  background-color: #47D8E0;
   -webkit-transition: width 0.6s ease;
   transition: width 0.6s ease;
 }
@@ -5931,8 +5931,8 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #F85C70;
-  border-color: #F85C70;
+  background-color: #47D8E0;
+  border-color: #47D8E0;
 }
 
 .list-group-horizontal {
@@ -7192,7 +7192,7 @@ button.bg-warning:focus {
 }
 
 .bg-danger {
-  background-color: #F85C70 !important;
+  background-color: #47D8E0 !important;
 }
 
 a.bg-danger:hover, a.bg-danger:focus,
@@ -7270,7 +7270,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #F85C70 !important;
+  border-color: #47D8E0 !important;
 }
 
 .border-secondary {
@@ -7290,7 +7290,7 @@ button.bg-dark:focus {
 }
 
 .border-danger {
-  border-color: #F85C70 !important;
+  border-color: #47D8E0 !important;
 }
 
 .border-light {
@@ -10777,7 +10777,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #F85C70 !important;
+  color: #47D8E0 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10817,7 +10817,7 @@ a.text-warning:hover, a.text-warning:focus {
 }
 
 .text-danger {
-  color: #F85C70 !important;
+  color: #47D8E0 !important;
 }
 
 a.text-danger:hover, a.text-danger:focus {
@@ -11006,7 +11006,7 @@ p {
   display: block;
   width: 25px;
   height: 1.5px;
-  background-color: #F85C70;
+  background-color: #47D8E0;
 }
 
 .breadcrumb {
@@ -11149,7 +11149,7 @@ p {
   top: 10px;
   padding: 6px 10px;
   width: 100px;
-  background: #F85C70;
+  background: #47D8E0;
   color: #fff;
   font-weight: 400;
   -webkit-transform: rotate(45deg);
@@ -11159,7 +11159,7 @@ p {
 }
 
 .price-card.price-card-requried .num {
-  color: #F85C70;
+  color: #47D8E0;
 }
 
 .portfolio .filters {
@@ -11206,7 +11206,7 @@ p {
 
 .portfolio .filters a.active {
   opacity: 1;
-  background: #F85C70;
+  background: #47D8E0;
   color: #fff;
 }
 
@@ -11410,7 +11410,7 @@ pre .code {
 }
 
 .navbar .nav-link.active {
-  color: #F85C70 !important;
+  color: #47D8E0 !important;
 }
 
 .navbar .brand {
@@ -11678,7 +11678,7 @@ pre .code {
   content: '';
   width: 20px;
   height: 2px;
-  background: #F85C70;
+  background: #47D8E0;
   display: block;
   margin-top: 10px;
 }
